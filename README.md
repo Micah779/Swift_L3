@@ -1,6 +1,6 @@
 ## Swift Coding Course - Lesson 2
 
-<img src="lesson2_screenshot.png" alt="App screenshot" width="200">
+<img src="lesson3_screenshot.png" alt="App screenshot" width="200">
 
     This repo contains the code I wrote while following along with lesson 2 of the Swift coding course by CodeWithChris on YouTube.
 
